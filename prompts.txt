@@ -1,0 +1,4 @@
+start:You wake up in a room.
+room1:This is a green room.
+room2:This is a red room.
+room3:This is a blue room.

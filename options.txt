@@ -1,0 +1,3 @@
+start:Go through a green door:room1
+start:Go through a red door:room2
+room1:Go through a blue door:room3
