@@ -1,6 +1,6 @@
 # cyoa-engine
 ## Introduction
-The Choose Your Own Adventure Engine is a framework designed to streamline the creation of choose-your-own-adventure games. By creating this project, I was able to practice utilizing classes, files, and multilevel linked lists, while demostrating principles of object-oriented programming. The CYOA Engine was written entirely using vanilla Python 3.9.
+The Choose Your Own Adventure Engine is a framework designed to streamline the creation of choose-your-own-adventure games. By creating this project, I was able to practice utilizing classes, files, and multilevel linked lists, while demonstrating principles of object-oriented programming. The CYOA Engine was written entirely using vanilla Python 3.9.
 
 ## Making a CYOA Game
 
@@ -26,7 +26,7 @@ Once you're done creating your prompts, navigate over to the options.txt file an
 
 start:Go through the door.:outside
 
-This will add the option "Go through the door" to the prompt named "start". If you select this option, you will then arrive at the prompt named "outside".
+This will add the option "Go through the door." to the prompt named "start". If you select this option, you will then arrive at the prompt named "outside".
 
 ### Step 3: Play Your Game!
 
