@@ -1,6 +1,6 @@
-# cyoa-engine
+# adventure-game-engine
 ## Introduction
-The Choose Your Own Adventure Engine is a framework designed to streamline the creation of choose-your-own-adventure games. Creating this framework allowed me to practice utilizing classes, files, and linked lists, while demonstrating principles of object-oriented programming. The CYOA Engine was written entirely using vanilla Python 3.9.
+The Adventure Game Engine is a framework designed to streamline the creation of choose-your-own-adventure games. Creating this framework allowed me to practice utilizing classes, files, and linked lists, while demonstrating principles of object-oriented programming. The CYOA Engine was written entirely using vanilla Python 3.9.
 
 ## Making a CYOA Game
 
