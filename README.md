@@ -1,6 +1,6 @@
 # adventure-game-engine
 ## Introduction
-The Adventure Game Engine is a framework designed to streamline the creation of choose-your-own-adventure games. Creating this framework allowed me to practice utilizing classes, files, and linked lists, while demonstrating principles of object-oriented programming. The CYOA Engine was written entirely using vanilla Python 3.9.
+The Adventure Game Engine is a framework designed to streamline the creation of choose-your-own-adventure (CYOA) games. Creating this framework allowed me to practice utilizing classes, files, and linked lists, while demonstrating principles of object-oriented programming. The Adventure Game Engine was written entirely using vanilla Python 3.9.
 
 ## Making a CYOA Game
 
@@ -10,7 +10,7 @@ A CYOA game is comprised of two parts: Prompts and Options. Prompts are comprise
 
 A typical CYOA game can have a variety of branching plots, all leading to different endings.
 
-Now that you understand how a CYOA game works, here's how to make one using the CYOA Engine!
+Now that you understand how a CYOA game works, here's how to make one using the Adventure Game Engine!
 
 ### Step 1: Create Your Prompts!
   
