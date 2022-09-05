@@ -41,4 +41,19 @@ python adventuregame.py     # running on Windows
 python3 adventuregame.py    # running on Mac
 ```
 
-Have fun!
+If all went well, your screen should now look something like this:
+
+```
+You wake up in a room.
+
+Options:
+
+1: Go through a green door
+2: Go through a red door
+
+Select an option: 
+```
+
+Now you can select an option, which will then lead to a new prompt.
+
+Congrats! You've made a choose-your-own-adventure game with the Adventure Game Engine. Have fun!
